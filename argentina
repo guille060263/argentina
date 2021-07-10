@@ -1,468 +1,275 @@
 
+
 #EXTM3U
-#EXTINF:-1 ,-1: DE :PROSIEBEN HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/4785
-#EXTINF:-1 ,-1: DE: 13th Street HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30380
-#EXTINF:-1 ,-1: DE: 3sat HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/4796
-#EXTINF:-1 ,-1: DE: E! Entertainment HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30382
-#EXTINF:-1 ,-1: DE: Eurosport 1 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/4842
-#EXTINF:-1 ,-1: DE: Eurosport 2 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/4843
-#EXTINF:-1 ,-1: DE: KABEL EINS Classics HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/4793
-#EXTINF:-1 ,-1: DE: KABEL EINS HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/4792
-#EXTINF:-1 ,-1: DE: ONE HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/4775
-#EXTINF:-1 ,-1: DE: PRO SIEBEN FUN HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/4786
-#EXTINF:-1 ,-1: DE: RTL 2 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/4777
-#EXTINF:-1 ,-1: DE: RTL CRIME HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/4779
-#EXTINF:-1 ,-1: DE: RTL Living HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/4782
-#EXTINF:-1 ,-1: DE: RTL PASSION HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/4780
-#EXTINF:-1 ,-1: DE: RTL PLUS HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/4781
-#EXTINF:-1 ,-1: DE: SAT 1 EMOTIONS HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/4790
-#EXTINF:-1 ,-1: DE: SAT 1 Gold HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/4791
-#EXTINF:-1 ,-1: DE: SAT 1 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/4789
-#EXTINF:-1 ,-1: DE: SIXX HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/4795
-#EXTINF:-1 ,-1: DE: Sky 1 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30368
-#EXTINF:-1 ,-1: DE: Sky Cinema Action HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30372
-#EXTINF:-1 ,-1: DE: Sky Cinema Comedy HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30373
-#EXTINF:-1 ,-1: DE: Sky Cinema HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30370
-#EXTINF:-1 ,-1: DE: Super RTL HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/4778
-#EXTINF:-1 ,-1: DE: VOX HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/4783
-#EXTINF:-1 ,-1: DE: ZDF HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/4773
-#EXTINF:-1 ,Candy (18+)
-http://320359e6.skalkak.ru/iptv/DXULWT3EG89GCR/923/index.m3u8
-#EXTINF:-1 ,DE: 13TH STREET
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30319
-#EXTINF:-1 ,DE: Auto Motor und Sport Channel
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30323
-#EXTINF:-1 ,DE: AXN HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30302
-#EXTINF:-1 ,DE: DAZN 1
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30335
-#EXTINF:-1 ,DE: DAZN 1 Bar HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30333
-#EXTINF:-1 ,DE: DAZN 2
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30336
-#EXTINF:-1 ,DE: DAZN 2 Bar HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30334
-#EXTINF:-1 ,DE: E! Entertainment
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30297
-#EXTINF:-1 ,DE: Eurosport 1 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30330
-#EXTINF:-1 ,DE: Eurosport 2  Xtra
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30331
-#EXTINF:-1 ,DE: Eurosport 2 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30332
-#EXTINF:-1 ,DE: FC Bayern TV
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30328
-#EXTINF:-1 ,DE: Kinowelt TV HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30318
-#EXTINF:-1 ,DE: ORF SPORT
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30325
-#EXTINF:-1 ,DE: Romance TV
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30299
-#EXTINF:-1 ,DE: RTL HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/4776
-#EXTINF:-1 ,DE: Sky 1 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30303
-#EXTINF:-1 ,DE: SKY ACTION
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30391
-#EXTINF:-1 ,DE: Sky Action FHD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30390
-#EXTINF:-1 ,DE: SKY ATLANTIC  HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30388
-#EXTINF:-1 ,DE: Sky Atlantic FHD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30387
-#EXTINF:-1 ,DE: Sky Atlantic HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30306
-#EXTINF:-1 ,DE: SKY Bundesliga 1 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30344
-#EXTINF:-1 ,DE: SKY CINEMA  1  HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30399
-#EXTINF:-1 ,DE: Sky Cinema  24 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30308
-#EXTINF:-1 ,DE: Sky Cinema Action
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30305
-#EXTINF:-1 ,DE: Sky Cinema Classics
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30314
-#EXTINF:-1 ,DE: Sky Cinema Family FHD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30398
-#EXTINF:-1 ,DE: Sky Cinema Family HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30312
-#EXTINF:-1 ,DE: Sky Cinema HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30307
-#EXTINF:-1 ,DE: Sky Cinema Hits
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30311
-#EXTINF:-1 ,DE: SKY CINEMA NOSTALGIE
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30397
-#EXTINF:-1 ,DE: Sky Cinema Special HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30310
-#EXTINF:-1 ,DE: Sky Cinema Thriller HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30309
-#EXTINF:-1 ,DE: Sky Comedy
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30313
-#EXTINF:-1 ,DE: SKY COMEDY HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30396
-#EXTINF:-1 ,DE: SKY DISNEY CINEMAGIC HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30395
-#EXTINF:-1 ,DE: SKY EMOTION HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30394
-#EXTINF:-1 ,DE: Sky Fox HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30315
-#EXTINF:-1 ,DE: Sky Fusball Bundesliga 1
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30343
-#EXTINF:-1 ,DE: SKY HITS   HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30393
-#EXTINF:-1 ,DE: Sky Hits FHD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30392
-#EXTINF:-1 ,DE: Sky Krimi
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30300
-#EXTINF:-1 ,DE: SKY SELECT 1 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30484
-#EXTINF:-1 ,DE: SKY SELECT 2 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30483
-#EXTINF:-1 ,DE: SKY SELECT 3 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30482
-#EXTINF:-1 ,DE: SKY SELECT 4 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30481
-#EXTINF:-1 ,DE: SKY SELECT 5 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30480
-#EXTINF:-1 ,DE: SKY SELECT 6 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30479
-#EXTINF:-1 ,DE: SKY SELECT 7 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30478
-#EXTINF:-1 ,DE: SKY SELECT 8 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30477
-#EXTINF:-1 ,DE: Sky Serien & Shows
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30304
-#EXTINF:-1 ,DE: SKY SPORT 1 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30341
-#EXTINF:-1 ,DE: SKY SPORT 2 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30342
-#EXTINF:-1 ,DE: SKY SPORT Austria
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30340
-#EXTINF:-1 ,DE: SKY SPORT F1 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30339
-#EXTINF:-1 ,DE: Sky Sport Liga 1 FHD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/48981
-#EXTINF:-1 ,DE: Sky Sport Liga 2 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/48982
-#EXTINF:-1 ,DE: Sky Sport Liga 4 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/48983
-#EXTINF:-1 ,DE: Sky Sport Liga 6 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/48985
-#EXTINF:-1 ,DE: Sky Sport News FHD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/48986
-#EXTINF:-1 ,DE: Sky Sport News HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30338
-#EXTINF:-1 ,DE: Sky SYFY HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30316
-#EXTINF:-1 ,DE: Sony Entertainment TV
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30301
-#EXTINF:-1 ,DE: SPORT 1  HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30327
-#EXTINF:-1 ,DE: Sport Digital
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30329
-#EXTINF:-1 ,DE: Sport1 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30326
-#EXTINF:-1 ,DE: Teleclub Sport 1
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30337
-#EXTINF:-1 ,DE: TNT FILM HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30320
-#EXTINF:-1 ,DE: TNT SERIE HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30321
-#EXTINF:-1 ,DE: Universal Channel
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30317
-#EXTINF:-1 ,DE: UNIVERSAL CHANNEL HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/30400
-#EXTINF:-1 ,DE| Das Erste FHD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/437
-#EXTINF:-1 ,DE| Das Erste HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/436
-#EXTINF:-1 ,DE| DE-MUSIK: Deluxe Music HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/432
-#EXTINF:-1 ,DE| DE-MUSIK: MTV Dance
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/431
-#EXTINF:-1 ,DE| Disney Junior HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/428
-#EXTINF:-1 ,DE| DISNEY XD HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/427
-#EXTINF:-1 ,DE| DMAX
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/426
-#EXTINF:-1 ,DE| E! Entertainment
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/425
-#EXTINF:-1 ,DE| Eurosport 1
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/424
-#EXTINF:-1 ,DE| Eurosport 2
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/423
-#EXTINF:-1 ,DE| Eurosport 2 XTRA UHD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/422
-#EXTINF:-1 ,DE| FOX HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/421
-#EXTINF:-1 ,DE| HR  HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/418
-#EXTINF:-1 ,DE| JUNIOR
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/417
-#EXTINF:-1 ,DE| Kabel eins Classic HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/416
-#EXTINF:-1 ,DE| Kabel Eins Doku HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/415
-#EXTINF:-1 ,DE| Kabel eins HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/414
-#EXTINF:-1 ,DE| KIKA HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/413
-#EXTINF:-1 ,DE| MDR
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/407
-#EXTINF:-1 ,DE| N24
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/399
-#EXTINF:-1 ,DE| NDR HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/396
-#EXTINF:-1 ,DE| NICKELODEON JR HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/394
-#EXTINF:-1 ,DE| NTV HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/393
-#EXTINF:-1 ,DE| N-TV HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/400
-#EXTINF:-1 ,DE| ORF Sport  HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/392
-#EXTINF:-1 ,DE| ProSieben FUN HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/391
-#EXTINF:-1 ,DE| ProSieben MAX HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/389
-#EXTINF:-1 ,DE| Romance TV
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/388
-#EXTINF:-1 ,DE| RTL 2 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/387
-#EXTINF:-1 ,DE| RTL Crime HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/386
-#EXTINF:-1 ,DE| RTL Living HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/385
-#EXTINF:-1 ,DE| RTL Nitro HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/384
-#EXTINF:-1 ,DE| RTL Passion HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/383
-#EXTINF:-1 ,DE| RTL Plus HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/382
-#EXTINF:-1 ,DE| Sat 1 Gold HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/381
-#EXTINF:-1 ,DE| SAT 1 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/380
-#EXTINF:-1 ,DE| Sixx HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/377
-#EXTINF:-1 ,DE| SUPER RTL
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/311
-#EXTINF:-1 ,DE| SYFY HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/310
-#EXTINF:-1 ,DE| TLC HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/308
-#EXTINF:-1 ,DE| TOGGO PLUS
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/304
-#EXTINF:-1 ,DE| VH1 Classic
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/302
-#EXTINF:-1 ,DE| WDR HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/300
-#EXTINF:-1 ,DE| ZDF HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/299
-#EXTINF:-1 ,DE| ZDF info HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/298
-#EXTINF:-1 ,DE| ZDF Neo HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/297
-#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-u_KTFN-5VGM/X5rsrGLSJhI/AAAAAAAABfk/O6cZHFnAdecPuYm4RHDirNI7TLcbXS6PgCLcBGAsYHQ/s1280/104816604_983633575427665_146732767959998492_n.jpg",NO
-https://1.bp.blogspot.com/-kgaTyg5u1I0/XRECd585TEI/AAAAAAAABSE/4oXpimebMFg0lUWM_K4c93l0st9SCYvDACLcBGAs/s1600/s-l1000.jpg
-#EXTINF:-1 ,TR: ATV HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/498
-#EXTINF:-1 ,TR| A HABER HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/508
-#EXTINF:-1 ,TR| A HABER UHD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/282
-#EXTINF:-1 ,TR| A PARA HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/558
-#EXTINF:-1 ,TR| A SPOR HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/490
-#EXTINF:-1 ,TR| A SPOR UHD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/284
-#EXTINF:-1 ,TR| BEIN SPORT 1 (480P)
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/463
-#EXTINF:-1 ,TR| beIN SPORT 1 1800k  MDL
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/465
-#EXTINF:-1 ,TR| beIN SPORTS 1 UHD &UYDU ALMANYA&
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/477
-#EXTINF:-1 ,TR| beIN SPORTS 1 UHD ULTRA YUKSEK KALITE
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/468
-#EXTINF:-1 ,TR| beIN SPORTS 2 HD & DT PLAY &
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/457
-#EXTINF:-1 ,TR| beIN SPORTS 2 UHD &UYDU ALMANYA&
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/476
-#EXTINF:-1 ,TR| beIN SPORTS 3 HD & DT PLAY &
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/458
-#EXTINF:-1 ,TR| beIN SPORTS 3 UHD  & MDL &
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/472
-#EXTINF:-1 ,TR| beIN SPORTS 4 HD & DT PLAY &
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/459
-#EXTINF:-1 ,TR| beIN SPORTS 4 UHD  & MDL &
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/473
-#EXTINF:-1 ,TR| beIN SPORTS HABER HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/582
-#EXTINF:-1 ,TR| beIN SPORTS MAX HD 2 & DT PLAY &
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/461
-#EXTINF:-1 ,TR| CNNTÜRK HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/523
-#EXTINF:-1 ,TR| DISCOVERY CHANEL HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/484
-#EXTINF:-1 ,TR| DISCOVERY IDX HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/536
-#EXTINF:-1 ,TR| DISCOVERY SCIENCE HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/535
-#EXTINF:-1 ,TR| DMAX HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/491
-#EXTINF:-1 ,TR| EUROSPORT HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/487
-#EXTINF:-1 ,TR| EUROSPORT2 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/488
-#EXTINF:-1 ,TR| FB TV HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/505
-#EXTINF:-1 ,TR| FOX CRIME
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/526
-#EXTINF:-1 ,TR| FOXTV HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/503
-#EXTINF:-1 ,TR| GSTV HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/506
-#EXTINF:-1 ,TR| HABER GLOBAL
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/559
-#EXTINF:-1 ,TR| HABERTÜRK
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/520
-#EXTINF:-1 ,TR| HALK TV
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/548
-#EXTINF:-1 ,TR| HISTORY HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/483
-#EXTINF:-1 ,TR| KANAL 24
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/533
-#EXTINF:-1 ,TR| KANAL 7 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/502
-#EXTINF:-1 ,TR| KANAL D HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/497
-#EXTINF:-1 ,TR| KRAL POP
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/590
-#EXTINF:-1 ,TR| KRAL TV
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/591
-#EXTINF:-1 ,TR| NATIONAL GEO WILD HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/485
-#EXTINF:-1 ,TR| NATIONAL GEOGRAPHIC HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/482
-#EXTINF:-1 ,TR| NBA TV HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/543
-#EXTINF:-1 ,TR| NTV HABER
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/507
-#EXTINF:-1 ,TR| S SPORT 2 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/605
-#EXTINF:-1 ,TR| S SPORT HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/532
-#EXTINF:-1 ,TR| S SPORT UHD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/584
-#EXTINF:-1 ,TR| SHOW TV HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/499
-#EXTINF:-1 ,TR| SMARTSPOR HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/531
-#EXTINF:-1 ,TR| SMARTSPOR UHD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/583
-#EXTINF:-1 ,TR| SPORTSTV HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/492
-#EXTINF:-1 ,TR| STARTV HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/496
-#EXTINF:-1 ,TR| TGRT BELGESEL
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/596
-#EXTINF:-1 ,TR| TGRT HABER
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/519
-#EXTINF:-1 ,TR| TIVIBU SPOR-1 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/480
-#EXTINF:-1 ,TR| TIVIBU SPOR-2 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/481
-#EXTINF:-1 ,TR| TIVIBU SPOR-3 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/539
-#EXTINF:-1 ,TR| TRT 1 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/500
-#EXTINF:-1 ,TR| TRT 2 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/602
-#EXTINF:-1 ,TR| TRT HABER HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/493
-#EXTINF:-1 ,TR| TRT SPOR 2
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/586
-#EXTINF:-1 ,TR| TRT SPOR UHD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/276
-#EXTINF:-1 ,TR| TRTSPOR HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/489
-#EXTINF:-1 ,TR| TV 8 HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/501
-#EXTINF:-1 ,TR| ÜLKE TV HD
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/578
-#EXTINF:-1 ,TR| UYDU: beIN SPORT 1 1200k  MDL
-http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/467
-#EXTINF:-1 ,Visit-X TV HD (18+)
-http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 ,XTREME ADULTO
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6186
-#EXTINF:-1 ,XTREME ADULTO2
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6187
-#EXTINF:-1 ,XTREME BRASILEIRINHAS
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6188
-#EXTINF:-1 ,XXX: BRAZZERS
-http://tv1.cs10.tv:80/leopoldo/leopoldo/3717
-#EXTINF:-1 ,XXX: BRAZZERS 1
-http://tv1.cs10.tv:80/leopoldo/leopoldo/11682
-#EXTINF:-1 ,XXX: BRAZZERS 2
-http://tv1.cs10.tv:80/leopoldo/leopoldo/11985
-#EXTINF:-1 ,XXX: BRAZZERS 3
-http://tv1.cs10.tv:80/leopoldo/leopoldo/11986
-#EXTINF:-1 ,XXX: EROTIC 2
-http://tv1.cs10.tv:80/leopoldo/leopoldo/2219
-#EXTINF:-1 ,XXX: JASMIN
-http://tv1.cs10.tv:80/leopoldo/leopoldo/2218
-#EXTINF:-1 ,XXX: PENHOUSE
-http://tv1.cs10.tv:80/leopoldo/leopoldo/2216
-#EXTINF:-1 ,XXX: PLAYBOY H265
-http://tv1.cs10.tv:80/leopoldo/leopoldo/11265
-#EXTINF:-1 ,XXX: PLAYBOY TV FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7656
-#EXTINF:-1 ,XXX: PLAYBOY TV HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/2203
-#EXTINF:-1 ,XXX: PLAYBOY TV SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/3762
-#EXTINF:-1 ,XXX: PRIVATE
-http://tv1.cs10.tv:80/leopoldo/leopoldo/3716
-#EXTINF:-1 ,XXX: REDLIGHT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/2210
-#EXTINF:-1 ,XXX: SEX HOT H265
-http://tv1.cs10.tv:80/leopoldo/leopoldo/11266
-#EXTINF:-1 ,XXX: SEXTREME
-http://tv1.cs10.tv:80/leopoldo/leopoldo/2206
-#EXTINF:-1 ,XXX: SEXTREME H265
-http://tv1.cs10.tv:80/leopoldo/leopoldo/11267
-#EXTINF:-1 ,XXX: SEXY HOT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/2204
-#EXTINF:-1 ,XXX: VENUS
-http://tv1.cs10.tv:80/leopoldo/leopoldo/2212
-#EXTINF:-1 ,XXX: VENUS H265
-http://tv1.cs10.tv:80/leopoldo/leopoldo/11246
+#EXTINF:-1,6 - Repretel
+http://201.220.141.118:8000/play/a02q/index.m3u8
+#EXTINF:-1,7-Teletica
+http://201.220.141.118:8000/play/a02r/index.m3u8
+#EXTINF:-1,A&E HD
+http://201.220.141.118:8000/play/a0cg/index.m3u8
+#EXTINF:-1,AMC HD
+http://201.220.141.118:8000/play/a0ch/index.m3u8
+#EXTINF:-1,AXN HD
+http://201.220.141.118:8000/play/a05g/index.m3u8
+#EXTINF:-1,AZ click HD
+http://201.220.141.118:8000/play/a05v/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://201.220.141.118:8000/play/a0ew/index.m3u8
+#EXTINF:-1,Antena 3
+http://201.220.141.118:8000/play/a00a/index.m3u8
+#EXTINF:-1,Antena 7- RD
+http://201.220.141.118:8000/play/a01b/index.m3u8
+#EXTINF:-1,Atres Series
+http://201.220.141.118:8000/play/a00g/index.m3u8
+#EXTINF:-1,Azcorazon
+http://201.220.141.118:8000/play/a01p/index.m3u8
+#EXTINF:-1,Azmundo
+http://201.220.141.118:8000/play/a09e/index.m3u8
+#EXTINF:-1,BBC World
+http://201.220.141.118:8000/play/a022/index.m3u8
+#EXTINF:-1,Baby TV
+http://201.220.141.118:8000/play/a007/index.m3u8
+#EXTINF:-1,Boomerang
+http://201.220.141.118:8000/play/a01j/index.m3u8
+#EXTINF:-1,CARTOON NT HD
+http://201.220.141.118:8000/play/a00y/index.m3u8
+#EXTINF:-1,CCN
+http://201.220.141.118:8000/play/a01l/index.m3u8
+#EXTINF:-1,CERTV
+http://201.220.141.118:8000/play/a04h/index.m3u8
+#EXTINF:-1,CINECANAL HD
+http://201.220.141.118:8000/play/a09w/index.m3u8
+#EXTINF:-1,CNN Internacional
+http://201.220.141.118:8000/play/a00j/index.m3u8
+#EXTINF:-1,CNNE
+http://201.220.141.118:8000/play/a021/index.m3u8
+#EXTINF:-1,CONCERT CHANNEL
+http://201.220.141.118:8000/play/a00z/index.m3u8
+#EXTINF:-1,Canal 3 - GUA
+http://201.220.141.118:8000/play/a0ct/index.m3u8
+#EXTINF:-1,Canal 3 Telesistemas HND
+http://201.220.141.118:8000/play/a0gp/index.m3u8
+#EXTINF:-1,Canal 4 - PAN
+http://201.220.141.118:8000/play/a04k/index.m3u8
+#EXTINF:-1,Canal 5 - HON
+http://201.220.141.118:8000/play/a0gt/index.m3u8
+#EXTINF:-1,Canal Antigua - GUA
+http://201.220.141.118:8000/play/a098/index.m3u8
+#EXTINF:-1,Canal VTV HND
+http://201.220.141.118:8000/play/a0gq/index.m3u8
+#EXTINF:-1,Cine Latino
+http://201.220.141.118:8000/play/a052/index.m3u8
+#EXTINF:-1,CineMax
+http://201.220.141.118:8000/play/a053/index.m3u8
+#EXTINF:-1,Cinema Dinamita
+http://201.220.141.118:8000/play/a055/index.m3u8
+#EXTINF:-1,Comedy Central HD
+http://201.220.141.118:8000/play/a066/index.m3u8
+#EXTINF:-1,DHE HD
+http://201.220.141.118:8000/play/a05u/index.m3u8
+#EXTINF:-1,DISCOVERY THEATHER HD
+http://201.220.141.118:8000/play/a063/index.m3u8
+#EXTINF:-1,Digital 15 - RD
+http://201.220.141.118:8000/play/a02h/index.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://201.220.141.118:8000/play/a06m/index.m3u8
+#EXTINF:-1,Discovery Civilization
+http://201.220.141.118:8000/play/a00c/index.m3u8
+#EXTINF:-1,Discovery Home & Health
+http://201.220.141.118:8000/play/a04t/index.m3u8
+#EXTINF:-1,Discovery ID HD
+http://201.220.141.118:8000/play/a06r/index.m3u8
+#EXTINF:-1,Discovery Kids HD
+http://201.220.141.118:8000/play/a06n/index.m3u8
+#EXTINF:-1,Discovery Science
+http://201.220.141.118:8000/play/a00d/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://201.220.141.118:8000/play/a04s/index.m3u8
+#EXTINF:-1,Discovery World HD
+http://201.220.141.118:8000/play/a06o/index.m3u8
+#EXTINF:-1,Disney
+http://201.220.141.118:8000/play/a04q/index.m3u8
+#EXTINF:-1,Disney JR
+http://201.220.141.118:8000/play/a01k/index.m3u8
+#EXTINF:-1,Disney 😆
+http://201.220.141.118:8000/play/a09d/index.m3u8
+#EXTINF:-1,E! Entertairment HD
+http://201.220.141.118:8000/play/a05m/index.m3u8
+#EXTINF:-1,ESPN +
+http://201.220.141.118:8000/play/a027/index.m3u8
+#EXTINF:-1,ESPN HD
+http://201.220.141.118:8000/play/a06h/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://201.220.141.118:8000/play/a06f/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://201.220.141.118:8000/play/a06g/index.m3u8
+#EXTINF:-1,ESPN2
+http://201.220.141.118:8000/play/a09p/index.m3u8
+#EXTINF:-1,EWTN
+http://201.220.141.118:8000/play/a025/index.m3u8
+#EXTINF:-1,El Gourmet
+http://201.220.141.118:8000/play/a00q/index.m3u8
+#EXTINF:-1,Europa HD
+http://201.220.141.118:8000/play/a05s/index.m3u8
+#EXTINF:-1,Exa TV
+http://201.220.141.118:8000/play/a09q/index.m3u8
+#EXTINF:-1,FOX
+http://201.220.141.118:8000/play/a04r/index.m3u8
+#EXTINF:-1,FOX Action HD
+http://201.220.141.118:8000/play/a06b/index.m3u8
+#EXTINF:-1,FOX Comedy HD
+http://201.220.141.118:8000/play/a06s/index.m3u8
+#EXTINF:-1,FOX Family HD
+http://201.220.141.118:8000/play/a06c/index.m3u8
+#EXTINF:-1,FOX HD
+http://201.220.141.118:8000/play/a09t/index.m3u8
+#EXTINF:-1,FOX LIFE
+http://201.220.141.118:8000/play/a01n/index.m3u8
+#EXTINF:-1,FOX Movies HD
+http://201.220.141.118:8000/play/a06a/index.m3u8
+#EXTINF:-1,FOX SPORTS 2 HD
+http://201.220.141.118:8000/play/a061/index.m3u8
+#EXTINF:-1,FOX SPORTS 3 HD
+http://201.220.141.118:8000/play/a06i/index.m3u8
+#EXTINF:-1,FOX Series HD
+http://201.220.141.118:8000/play/a069/index.m3u8
+#EXTINF:-1,FUTV HD CR
+http://201.220.141.118:8000/play/a00n/index.m3u8
+#EXTINF:-1,FX HD
+http://201.220.141.118:8000/play/a05r/index.m3u8
+#EXTINF:-1,FX Movies HD
+http://201.220.141.118:8000/play/a05t/index.m3u8
+#EXTINF:-1,Film & arts HD
+http://201.220.141.118:8000/play/a0cf/index.m3u8
+#EXTINF:-1,Fox Classic HD
+http://201.220.141.118:8000/play/a06d/index.m3u8
+#EXTINF:-1,Fox News
+http://201.220.141.118:8000/play/a00k/index.m3u8
+#EXTINF:-1,Fox Sports HD
+http://201.220.141.118:8000/play/a05f/index.m3u8
+#EXTINF:-1,Golden
+http://201.220.141.118:8000/play/a039/index.m3u8
+#EXTINF:-1,Golf Channel HD
+http://201.220.141.118:8000/play/a05x/index.m3u8
+#EXTINF:-1,Guatevision - GUA
+http://201.220.141.118:8000/play/a018/index.m3u8
+#EXTINF:-1,H2
+http://201.220.141.118:8000/play/a033/index.m3u8
+#EXTINF:-1,HBO
+http://201.220.141.118:8000/play/a057/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://201.220.141.118:8000/play/a013/index.m3u8
+#EXTINF:-1,HBO HD
+http://201.220.141.118:8000/play/a010/index.m3u8
+#EXTINF:-1,HBO Plus HD
+http://201.220.141.118:8000/play/a012/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://201.220.141.118:8000/play/a014/index.m3u8
+#EXTINF:-1,HBO2 HD
+http://201.220.141.118:8000/play/a011/index.m3u8
+#EXTINF:-1,HCH- HON
+http://201.220.141.118:8000/play/a0gs/index.m3u8
+#EXTINF:-1,HOLA! TV HD
+http://201.220.141.118:8000/play/a065/index.m3u8
+#EXTINF:-1,History HD
+http://201.220.141.118:8000/play/a026/index.m3u8
+#EXTINF:-1,Home & Health HD
+http://201.220.141.118:8000/play/a064/index.m3u8
+#EXTINF:-1,LIFE TIME
+http://201.220.141.118:8000/play/a01u/index.m3u8
+#EXTINF:-1,MASTV - PAN
+http://201.220.141.118:8000/play/a02p/index.m3u8
+#EXTINF:-1,MTV HD
+http://201.220.141.118:8000/play/a028/index.m3u8
+#EXTINF:-1,MTV Hits
+http://201.220.141.118:8000/play/a01w/index.m3u8
+#EXTINF:-1,MTV SIM HD
+http://201.220.141.118:8000/play/a067/index.m3u8
+#EXTINF:-1,Mas Chic
+http://201.220.141.118:8000/play/a009/index.m3u8
+#EXTINF:-1,Multimedios
+http://201.220.141.118:8000/play/a02s/index.m3u8
+#EXTINF:-1,Multipremier
+http://201.220.141.118:8000/play/a051/index.m3u8
+#EXTINF:-1,Nat Geo HD
+http://201.220.141.118:8000/play/a06j/index.m3u8
+#EXTINF:-1,Nat Geo Kids
+http://201.220.141.118:8000/play/a02y/index.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://201.220.141.118:8000/play/a032/index.m3u8
+#EXTINF:-1,National Geographic
+http://201.220.141.118:8000/play/a01t/index.m3u8
+#EXTINF:-1,Nick 2 HD
+http://201.220.141.118:8000/play/a05z/index.m3u8
+#EXTINF:-1,Nick Jr
+http://201.220.141.118:8000/play/a01i/index.m3u8
+#EXTINF:-1,Nick SIM HD
+http://201.220.141.118:8000/play/a060/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://201.220.141.118:8000/play/a04p/index.m3u8
+#EXTINF:-1,PXTV
+http://201.220.141.118:8000/play/a00h/index.m3u8
+#EXTINF:-1,Paramount HD
+http://201.220.141.118:8000/play/a06k/index.m3u8
+#EXTINF:-1,Pasiones HD
+http://201.220.141.118:8000/play/a06p/index.m3u8
+#EXTINF:-1,RCN - GUA
+http://201.220.141.118:8000/play/a005/index.m3u8
+#EXTINF:-1,RCN Novelas
+http://201.220.141.118:8000/play/a030/index.m3u8
+#EXTINF:-1,RHEMA TV
+http://201.220.141.118:8000/play/a05e/index.m3u8
+#EXTINF:-1,SEMILLITAS
+http://201.220.141.118:8000/play/a01m/index.m3u8
+#EXTINF:-1,SERTV - PAN
+http://201.220.141.118:8000/play/a002/index.m3u8
+#EXTINF:-1,SONY HD
+http://201.220.141.118:8000/play/a09v/index.m3u8
+#EXTINF:-1,SPACE HD
+http://201.220.141.118:8000/play/a05h/index.m3u8
+#EXTINF:-1,Sembrador
+http://201.220.141.118:8000/play/a03e/index.m3u8
+#EXTINF:-1,Star TVE HD
+http://201.220.141.118:8000/play/a0co/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://201.220.141.118:8000/play/a0cb/index.m3u8
+#EXTINF:-1,Sun Channel
+http://201.220.141.118:8000/play/a00r/index.m3u8
+#EXTINF:-1,SyFy HD
+http://201.220.141.118:8000/play/a05k/index.m3u8
+#EXTINF:-1,TBN Enlace
+http://201.220.141.118:8000/play/a024/index.m3u8
+#EXTINF:-1,TCM
+http://201.220.141.118:8000/play/a03a/index.m3u8
+#EXTINF:-1,TLC
+http://201.220.141.118:8000/play/a09n/index.m3u8
+#EXTINF:-1,TNT HD
+http://201.220.141.118:8000/play/a062/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://201.220.141.118:8000/play/a06l/index.m3u8
+#EXTINF:-1,TV Max - PAN
+http://201.220.141.118:8000/play/a04j/index.m3u8
+#EXTINF:-1,TVChile
+http://201.220.141.118:8000/play/a00b/index.m3u8
+#EXTINF:-1,TVE
+http://201.220.141.118:8000/play/a09s/index.m3u8
+#EXTINF:-1,Telecadena - HON
+http://201.220.141.118:8000/play/a0gu/index.m3u8
+#EXTINF:-1,Telemundo HD
+http://201.220.141.118:8000/play/a05q/index.m3u8
+#EXTINF:-1,Telesistema RD
+http://201.220.141.118:8000/play/a01c/index.m3u8
+#EXTINF:-1,Teleuniverso - RD
+http://201.220.141.118:8000/play/a0f0/index.m3u8
+#EXTINF:-1,Universal
+http://201.220.141.118:8000/play/a0eo/index.m3u8
+#EXTINF:-1,Univision HD
+http://201.220.141.118:8000/play/a0et/index.m3u8
+#EXTINF:-1,VH1 Classic
+http://201.220.141.118:8000/play/a0ev/index.m3u8
+#EXTINF:-1,VH1 HD
+http://201.220.141.118:8000/play/a0es/index.m3u8
+#EXTINF:-1,WARNER HD
+http://201.220.141.118:8000/play/a0eq/index.m3u8
+#EXTINF:-1,ZooMoo
+http://201.220.141.118:8000/play/a0er/index.m3u8
